@@ -25,8 +25,6 @@ Strix installed easily with:
 # Download requirements and test import.
 python -m pip install -r requirements.txt
 python -c "import strix" && echo "strix imported successfully" || echo "strix not found"
-
-
 ```
 
 
