@@ -1,5 +1,5 @@
 # strix-priv
-strix-priv for Vidoc
+strix-priv
 
 ## Strix Overview
 
