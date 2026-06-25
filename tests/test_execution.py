@@ -8,6 +8,7 @@ import pytest
 
 from strix.core.agents import AgentCoordinator
 
+import os
 
 @pytest.mark.asyncio
 async def test_budget_stop_sets_flag() -> None:
