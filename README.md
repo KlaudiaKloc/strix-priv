@@ -22,9 +22,9 @@ Strix installed easily with:
 
 ```bash
 
-# Download requirements and test import.
-python -m pip install -r requirements.txt
-python -c "import strix" && echo "strix imported successfully" || echo "strix not found"
+# Execute the batch file that installs everything you need.
+install.bat
+
 ```
 
 
