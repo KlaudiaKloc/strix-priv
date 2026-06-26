@@ -1,6 +1,5 @@
 uvicorn>=0.21.1
 colorama>=0.4.5
-pyworld==0.3.2
 onnxruntime; sys_platform == 'darwin'
 onnxruntime-gpu; sys_platform != 'darwin'
 ./scripts/extra_huggingface-0.4.0-cp311-abi3-win_amd64.whl
